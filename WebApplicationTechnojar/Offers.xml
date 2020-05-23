@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Offers>
+  <Offer>
+    <VendorName>Amazon Inc.</VendorName>
+    <Subtitle>Leading E-Commerce Giant</Subtitle>
+    <Logo></Logo>
+    <OfferScreenshot></OfferScreenshot>
+  </Offer>
+  <Offer>
+    <VendorName>Flipkart</VendorName>
+    <Subtitle>Popular E-Commerce Giant</Subtitle>
+    <Logo></Logo>
+    <OfferScreenshot></OfferScreenshot>
+  </Offer>
+</Offers>
